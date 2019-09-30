@@ -30,7 +30,9 @@ nav ul {
   color: #fff;
 }
 
-
+li a:not(no-highlight) {
+  background-color: #719e07;
+}
 
 [rel="external"] {
   bakground-color: #2694d8;
@@ -52,6 +54,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-#types li:nth-child(3) {
+#types li:nth-child(3n) {
   background-color: #d04b16;
 }
