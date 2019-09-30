@@ -30,7 +30,7 @@ nav ul {
   color: #fff;
 }
 
-li a:not(no-highlight) {
+li a:not(.no-highlight) {
   background-color: #719e07;
 }
 
