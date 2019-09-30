@@ -3,7 +3,7 @@ body {
 }
 
 header, footer {
-  font-size: 1.5 rem;
+  font-size: 1.5rem;
 }
 
 nav ul {
@@ -35,7 +35,7 @@ li a:not(no-highlight) {
 }
 
 [rel="external"] {
-  bakground-color: #2694d8;
+  background-color: #2694d8;
 }
 
 ol li:first-child {
